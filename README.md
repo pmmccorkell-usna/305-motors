@@ -27,10 +27,10 @@ ______________________
 <b>Advanced:</b>
 
 + optional send_commands variables:
-a.send_commands(target, runtime, Kp, Ki, Kd, dc_bias)
+    + a.send_commands(target, runtime, Kp, Ki, Kd, dc_bias)
 
 + restart rp2040 through matlab:
-a.reset_rp2040()
+    + a.reset_rp2040()
 
 + Uncomment lines 128-131 for automatic graphing of a.data
 
