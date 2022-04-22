@@ -9,6 +9,16 @@ Developed on Circuitpython 7.0.0-602 for RP2040
 a = ew305(##)    where ## is the COM ## of the serial port
 a.send_commands(target)
 
+
+
+
+
+
+
+
+
+
+
 ______________________
 <b>Example:</b>
 
