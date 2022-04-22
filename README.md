@@ -3,7 +3,7 @@
 Developed on Circuitpython 7.0.0-602 for RP2040
 
 1. Drop python files on raspberry pico
-2. Open matlab
+2. Open the matlab file
 
 3. In matlab:
     + a = ew305(##)    
