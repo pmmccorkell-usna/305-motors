@@ -6,8 +6,9 @@ Developed on Circuitpython 7.0.0-602 for RP2040
 2. Open matlab
 
 3. In matlab:
-a = ew305(##)    where ## is the COM ## of the serial port
-a.send_commands(target)
+    + a = ew305(##)    
+        + where ## is the COM ## of the serial port
+    + a.send_commands(target)
 
 
 
