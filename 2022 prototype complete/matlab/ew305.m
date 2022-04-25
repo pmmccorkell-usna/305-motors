@@ -99,7 +99,7 @@ classdef ew305 < matlab.mixin.SetGet
 				obj.runtime = varargin{2};
 			end
 
-			if nargin >3
+			if nargin > 3
 				obj.Kp = varargin{3};
 			end
 
